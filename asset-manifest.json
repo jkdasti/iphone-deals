@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iphone-deals/static/css/main.e6a513dd.chunk.css",
-    "main.js": "/iphone-deals/static/js/main.f0b3ae73.chunk.js",
-    "main.js.map": "/iphone-deals/static/js/main.f0b3ae73.chunk.js.map",
+    "main.js": "/iphone-deals/static/js/main.a8d0bf8a.chunk.js",
+    "main.js.map": "/iphone-deals/static/js/main.a8d0bf8a.chunk.js.map",
     "runtime-main.js": "/iphone-deals/static/js/runtime-main.38d247f0.js",
     "runtime-main.js.map": "/iphone-deals/static/js/runtime-main.38d247f0.js.map",
     "static/js/2.390ca320.chunk.js": "/iphone-deals/static/js/2.390ca320.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.38d247f0.js",
     "static/js/2.390ca320.chunk.js",
     "static/css/main.e6a513dd.chunk.css",
-    "static/js/main.f0b3ae73.chunk.js"
+    "static/js/main.a8d0bf8a.chunk.js"
   ]
 }
